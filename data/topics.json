@@ -1,0 +1,40 @@
+{
+  "CSE": {
+    "KIIT": {
+      "3": {
+        "Data Structures": {
+          "topics": {
+            "Arrays": {
+              "questions": [
+                "What is an array?",
+                "How is an array stored in memory?",
+                "Difference between static and dynamic arrays?",
+                "Explain time complexity of array operations.",
+                "How to reverse an array?",
+                "What are the advantages and disadvantages of arrays?",
+                "How does a 2D array differ from a 1D array?",
+                "What is the difference between row-major and column-major order?",
+                "How do you implement array-based stack and queue?",
+                "Explain array-based searching algorithms."
+              ]
+            },
+            "Linked Lists": {
+              "questions": [
+                "What is a linked list?",
+                "How is memory allocated in linked lists?",
+                "Difference between singly and doubly linked lists?",
+                "What are circular linked lists?",
+                "How to reverse a linked list?",
+                "How do you detect a loop in a linked list?",
+                "How do you delete a node in a linked list?",
+                "What are the advantages of linked lists over arrays?",
+                "What are the disadvantages of linked lists?",
+                "How does a linked list work in dynamic memory allocation?"
+              ]
+            }
+          }
+        }
+      }
+    }
+  }
+}

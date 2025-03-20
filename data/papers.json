@@ -1,0 +1,95 @@
+{
+  "CSE": {
+    "KIIT": {
+      "3": {
+        "subjects": {
+          "Scientific And Technical Writing": {
+            "years": {
+              "2024": {
+                "Midsem": [
+                  "https://res.cloudinary.com/dzabseimd/image/upload/v1742419625/2024_2_4_rjrznh.pdf"
+                ],
+                "Endsem": [
+                  "https://res.cloudinary.com/dzabseimd/image/upload/v1742419626/2024_f0hebu.pdf"
+                ]
+              },
+              "2023": {
+                "Midsem": [
+                  "https://res.cloudinary.com/dzabseimd/image/upload/v1742419625/2023_1_losnyx.pdf"
+                ],
+                "Endsem": [
+                  "https://res.cloudinary.com/dzabseimd/image/upload/v1742419625/2023_stt39s.pdf"
+                ]
+              }
+            }
+          },
+          "Operating System": {
+            "years": {
+              "2024": {
+                "Midsem": [
+                  "https://res.cloudinary.com/dzabseimd/image/upload/v1742419611/2024_2_5_lhawx5.pdf"
+                ],
+                "Endsem": [
+                  "https://res.cloudinary.com/dzabseimd/image/upload/v1742419612/2024_2_4_nyrnbq.pdf"
+                ]
+              },
+              "2021": {
+                "Midsem": [],
+                "Endsem": [
+                  "https://res.cloudinary.com/dzabseimd/image/upload/v1742419610/2021_2_eocgfz.pdf",
+                  "https://res.cloudinary.com/dzabseimd/image/upload/v1742419609/2021_1_ktqy4b.pdf"
+                ]
+              },
+              "2023": {
+                "Midsem": [
+                  "https://res.cloudinary.com/dzabseimd/image/upload/v1742419610/2023_1_hrxnqb.pdf"
+                ],
+                "Endsem": [
+                  "https://res.cloudinary.com/dzabseimd/image/upload/v1742419610/2023_3_hrv1dc.pdf"
+                ]
+              },
+              "2022": {
+                "Midsem": [],
+                "Endsem": [
+                  "https://res.cloudinary.com/dzabseimd/image/upload/v1742419611/2022_jq5sfc.pdf"
+                ]
+              }
+            }
+          },
+          "Discrete Mathematics": {
+            "years": {
+              "2023": {
+                "Midsem": [
+                  "https://res.cloudinary.com/dzabseimd/image/upload/v1742419587/2024_ppkc4n.pdf"
+                ],
+                "Endsem": [
+                  "https://res.cloudinary.com/dzabseimd/image/upload/v1742419588/2023_d09iot.pdf",
+                  "https://res.cloudinary.com/dzabseimd/image/upload/v1742419588/2023_1_z41jmg.pdf"
+                ]
+              },
+              "2024": {
+                "Midsem": [],
+                "Endsem": [
+                  "https://res.cloudinary.com/dzabseimd/image/upload/v1742419588/2024_1_rvnzhx.pdf"
+                ]
+              },
+              "2020": {
+                "Midsem": [
+                  "https://res.cloudinary.com/dzabseimd/image/upload/v1742419588/2020_1_dbl20n.pdf"
+                ],
+                "Endsem": []
+              },
+              "2022": {
+                "Midsem": [
+                  "https://res.cloudinary.com/dzabseimd/image/upload/v1742419588/2022_1_fp9nwn.pdf",
+                  "https://res.cloudinary.com/dzabseimd/image/upload/v1742419588/2022_2_ylzdrj.pdf"
+                ],
+                "Endsem": []
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
