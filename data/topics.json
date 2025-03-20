@@ -1,36 +1,102 @@
 {
   "CSE": {
-    "KIIT": {
+    "SCSE": {
       "3": {
-        "Data Structures": {
-          "topics": {
-            "Arrays": {
-              "questions": [
-                "What is an array?",
-                "How is an array stored in memory?",
-                "Difference between static and dynamic arrays?",
-                "Explain time complexity of array operations.",
-                "How to reverse an array?",
-                "What are the advantages and disadvantages of arrays?",
-                "How does a 2D array differ from a 1D array?",
-                "What is the difference between row-major and column-major order?",
-                "How do you implement array-based stack and queue?",
-                "Explain array-based searching algorithms."
-              ]
-            },
-            "Linked Lists": {
-              "questions": [
-                "What is a linked list?",
-                "How is memory allocated in linked lists?",
-                "Difference between singly and doubly linked lists?",
-                "What are circular linked lists?",
-                "How to reverse a linked list?",
-                "How do you detect a loop in a linked list?",
-                "How do you delete a node in a linked list?",
-                "What are the advantages of linked lists over arrays?",
-                "What are the disadvantages of linked lists?",
-                "How does a linked list work in dynamic memory allocation?"
-              ]
+        "subjects": {
+          "Data Structures": {
+            "topics": {
+              "Arrays": {
+                "questions": [
+                  "What is an array?",
+                  "How is an array stored in memory?",
+                  "Difference between static and dynamic arrays?",
+                  "Explain time complexity of array operations.",
+                  "How to reverse an array?",
+                  "What are the advantages and disadvantages of arrays?",
+                  "How does a 2D array differ from a 1D array?",
+                  "What is the difference between row-major and column-major order?",
+                  "How do you implement array-based stack and queue?",
+                  "Explain array-based searching algorithms."
+                ]
+              },
+              "Linked Lists": {
+                "questions": [
+                  "What is a linked list?",
+                  "How is memory allocated in linked lists?",
+                  "Difference between singly and doubly linked lists?",
+                  "What are circular linked lists?",
+                  "How to reverse a linked list?",
+                  "How do you detect a loop in a linked list?",
+                  "How do you delete a node in a linked list?",
+                  "What are the advantages of linked lists over arrays?",
+                  "What are the disadvantages of linked lists?",
+                  "How does a linked list work in dynamic memory allocation?"
+                ]
+              }
+            }
+          },
+          "Operating System": {
+            "topics": {
+              "Process Management": {
+                "questions": [
+                  "What is a process in an operating system?",
+                  "Difference between process and thread?",
+                  "Explain process scheduling algorithms.",
+                  "What are the different process states?",
+                  "What is a process control block (PCB)?",
+                  "How does context switching work?",
+                  "Difference between multiprogramming and multitasking?",
+                  "Explain deadlock and its conditions.",
+                  "What are the different types of schedulers in an OS?",
+                  "How does inter-process communication (IPC) work?"
+                ]
+              },
+              "Memory Management": {
+                "questions": [
+                  "What is memory management in an operating system?",
+                  "Difference between paging and segmentation?",
+                  "How does virtual memory work?",
+                  "Explain demand paging and page replacement algorithms.",
+                  "What is fragmentation and how is it resolved?",
+                  "What are the advantages of memory swapping?",
+                  "Difference between logical and physical address?",
+                  "Explain working of MMU (Memory Management Unit).",
+                  "What is the difference between heap and stack memory?",
+                  "How does the buddy system work in memory allocation?"
+                ]
+              }
+            }
+          },
+          "Scientific and Technical Writing": {
+            "topics": {
+              "Research Papers": {
+                "questions": [
+                  "What are the key components of a research paper?",
+                  "How to write an effective abstract?",
+                  "What is the importance of literature review?",
+                  "Difference between primary and secondary research?",
+                  "How to cite sources in a research paper?",
+                  "What is plagiarism and how to avoid it?",
+                  "What is the difference between IEEE and APA citation styles?",
+                  "How to format tables and figures in research?",
+                  "What is peer review and why is it important?",
+                  "What are the different types of technical reports?"
+                ]
+              },
+              "Technical Documentation": {
+                "questions": [
+                  "What is the purpose of technical documentation?",
+                  "How to write user manuals effectively?",
+                  "Difference between white paper and case study?",
+                  "What are the key elements of API documentation?",
+                  "What is the importance of version control in documentation?",
+                  "How to structure an effective software documentation?",
+                  "What are the best practices for writing concise documentation?",
+                  "Difference between functional and non-functional documentation?",
+                  "How to create a technical proposal?",
+                  "Why is documentation important for software maintenance?"
+                ]
+              }
             }
           }
         }

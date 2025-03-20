@@ -35,7 +35,9 @@ router.get("/topic", (req, res) => {
   const topicData =
     topicsData[branch]?.[school]?.[semester]?.subjects?.[subject]?.topics?.[
       topic
-    ];
+        ];
+    
+    
   if (!topicData) {
     return res.status(404).json({ error: "Topic data not found" });
   }
