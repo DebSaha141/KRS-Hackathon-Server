@@ -11,11 +11,9 @@ const app = express();
 app.use(cors());
 app.use(express.json());
 
-// Routes
 app.use("/api/data", dataRoutes);
 app.use("/api/upload", uploadRoutes);
 
-// Error Handling Middleware
 app.use(notFound);
 app.use(errorHandler);
 
