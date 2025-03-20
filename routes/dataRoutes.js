@@ -1,11 +1,12 @@
+const express = require("express");
 const router = express.Router();
 const path = require("path");
 const fs = require("fs");
 
-const papersFilePath = path.resolve(__dirname, "./data/papers.json");
+const papersFilePath = path.resolve(__dirname, "../data/papers.json");
 const papersData = JSON.parse(fs.readFileSync(papersFilePath, "utf-8"));
 
-const topicsFilePath = path.resolve(__dirname, "./data/topics.json");
+const topicsFilePath = path.resolve(__dirname, "../data/topics.json");
 const topicsData = JSON.parse(fs.readFileSync(topicsFilePath, "utf-8"));
 
 router.get("/pdf", (req, res) => {
